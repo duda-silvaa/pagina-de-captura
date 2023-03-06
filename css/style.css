@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(71, 159, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
+
+section{
+    padding: 20px;
+}
+header{
+    background-color: rgb(52, 126, 187);
+    text-align: center;
+    color:black;
+    padding: 15px;
+}
+
+.title{
+    font-size: 15px;
+}
+
+.formContainer{
+    max-width: 230px;
+    background-color: white;
+    padding: 20px;
+    float: right;
+}
+h2{
+   margin-top: auto;
+   
+}
+h3{
+    text-align: center;
+    font-size: 15px;
+}
+
+i{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    font-size: 12px;
+}
+
+.mbottom{
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"]{
+    background-color: rgb(52, 126, 187);
+    border: navajowhite;
+}
+
+.section2{
+    color: black;
+    
+}
+
+iframe{
+    border: none;
+    padding-right: 100px;
+    margin: 6px;
+
+}
+
+.informs{
+    text-align: justify;
+    padding: 10px;
+}
+
+
+h1{
+    font-size: 20px;
+    text-align: left;
+    padding-left: 9px;
+}
+.ps{
+    max-width: 59%;
+    margin: 4px;
+    text-align: justify;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    padding: 7px;
+}
+
+
+#page-container {
+    position: relative;
+    min-height: 70vh;
+  }
+  
+  
+  #footer {
+    position: absolute;
+    max-width: 1000px;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;    
+    background-color: rgb(52, 126, 187); 
+    text-align: center;
+    color: black;     
+
+  }
+
+#bfooter{
+    text-align: center;
+    line-height: 40px;
+}
+
+
+  
